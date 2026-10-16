@@ -45,7 +45,7 @@ STATUS             : "Jacked into the grid..."
 <!-- Replace these placeholder rows with your real repos. Keep 3-4 at most. -->
 | `PROJECT` | `BRIEFING` | `STACK` |
 |:--|:--|:--|
-| [**project-one**](https://github.com/AYUSHDEV077/project-one) | One line on what it does and why it's interesting. | `C++` |
+| [**bloch sphere simulator**](https://mekzcuadpnsszutaxlpfi7.streamlit.app/) | Single-qubit Bloch sphere and a two-qubit Bell state, built with Qiskit, NumPy and Plotly.. | `python` |
 | [**project-two**](https://github.com/AYUSHDEV077/project-two) | One line on what it does and why it's interesting. | `Python` |
 | [**project-three**](https://github.com/AYUSHDEV077/project-three) | One line on what it does and why it's interesting. | `JS` |
 
