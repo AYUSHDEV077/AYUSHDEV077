@@ -1,32 +1,75 @@
 <div align="center">
 
-  <!-- Cyberpunk 2077 Glitch / Neon Header Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0055,50:7928ca,100:00f0ff&height=220&section=header&text=AYUSH_DEV%20//%20NETRUNNER&fontSize=42&fontColor=00f0ff&fontAlignY=38&desc=WELCOME%20TO%20NIGHT%20CITY%20%7C%20STAY%20EDGERUNNER&descAlignY=62&descSize=15&descColor=ffffff&animation=twinkling" alt="Cyberpunk Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0055,50:7928ca,100:00f0ff&height=200&section=header&text=AYUSH%20KUMAR&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=NETRUNNER%20%2F%2F%20CS%20%40%20VIT%20VELLORE&descAlignY=58&descSize=16&descColor=ffffff" alt="Ayush Kumar - Netrunner // CS " />
 
-  <!-- Neon Terminal Typing Effect -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=%3E+BOOTING+SYSTEM...;%3E+NETRUNNER+ONLINE+%2F%2F+CS+STUDENT;%3E+BUILDING+THE+FUTURE+OF+CODE;%3E+WAKE+UP%2C+SAMURAI.+WE+HAVE+A+CITY+TO+BURN." alt="Terminal Typing" />
-  </a>
+<a href="https://github.com/AYUSHDEV077">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=700&height=45&lines=%3E+BOOTING+SYSTEM...;%3E+NETRUNNER+ONLINE;%3E+C+%2F+C%2B%2B+%7C+PYTHON+%7C+WEB;%3E+BUILDING+TOWARD+AI+%26+SYSTEMS+ENGINEERING;%3E+WAKE+UP%2C+SAMURAI.+WE+HAVE+A+CITY+TO+BURN." alt="Typing animation: booting system, netrunner online" />
+</a>
 
-  <!-- Live Stats Badges -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=AYUSHDEV077&label=NET_TRAFFIC&color=ff0055&style=for-the-badge" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/AYUSHDEV077?label=NODES_CONNECTED&color=00f0ff&style=for-the-badge&logo=github&logoColor=black" alt="Followers" />
-    <img src="https://img.shields.io/badge/LOCATION-NIGHT_CITY%2F%2FVELLORE-7928CA?style=for-the-badge" alt="Location" />
-  </p>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=AYUSHDEV077&label=NET_TRAFFIC&color=ff0055&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/AYUSHDEV077?label=NODES_CONNECTED&color=00f0ff&style=for-the-badge&logo=github&logoColor=black" alt="GitHub followers" />
+<img src="https://img.shields.io/badge/LOCATION-NIGHT_CITY%2F%2FVELLORE-7928CA?style=for-the-badge" alt="Location: Vellore" />
 
 </div>
 
 ---
 
-### ⚡ `// NEURAL_LINK_&_BIO`
-
-<img align="right" width="310" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzlhOGlvczFlMnJhbnh5amV5NmY2ejY1NW0xMHpvZmJmbzBvaHE3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohze0EYOt2cDm4CoU/giphy.gif" alt="Cyberpunk GIF" />
+### ⚡ `// NEURAL_LINK`
 
 ```yaml
-HANDLE        : "Ayush Kumar // AYUSHDEV077"
-ALIAS         : "RON1N"
-OCCUPATION    : "CS Undergrad student"
-CORE_SYSTEMS  : ["C / C++", "Python", "Web Architecture"]
-CURRENT_FOCUS : "AI & Systems Engineering/cybersecurity"
-STATUS        : "Jacked into the grid..."
+HANDLE             : "Ayush Kumar // AYUSHDEV077"
+ALIAS              : "RON1N"
+OCCUPATION         : "CS Undergrad student"
+CORE_SYSTEMS       : ["C / C++", "Python", "Web Architecture"]
+CURRENT_FOCUS      : "AI & Systems Engineering/cybersecurity"
+CURRENTLY_BUILDING : "something?"
+LEARNING           : "still stuck at python"
+STATUS             : "Jacked into the grid..."
+```
+
+---
+
+### 🧰 `// LOADOUT`
+
+<!-- Edit the list after ?i= to match what you actually use. Icon names: https://github.com/tandpfun/skill-icons -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,git,linux,vscode&theme=dark" alt="Tech stack icons" />
+</div>
+
+---
+
+### 🛰️ `// ACTIVE_MISSIONS`
+
+<!-- Replace these placeholder rows with your real repos. Keep 3-4 at most. -->
+| `PROJECT` | `BRIEFING` | `STACK` |
+|:--|:--|:--|
+| [**project-one**](https://github.com/AYUSHDEV077/project-one) | One line on what it does and why it's interesting. | `C++` |
+| [**project-two**](https://github.com/AYUSHDEV077/project-two) | One line on what it does and why it's interesting. | `Python` |
+| [**project-three**](https://github.com/AYUSHDEV077/project-three) | One line on what it does and why it's interesting. | `JS` |
+
+---
+
+### 📡 `// TELEMETRY`
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AYUSHDEV077&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff0055&text_color=c9d1d9" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSHDEV077&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=AYUSHDEV077&background=0D1117&ring=FF0055&fire=FF0055&currStreakLabel=00F0FF&sideLabels=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=7928CA" alt="Contribution streak" />
+</div>
+
+---
+
+### 📨 `// OPEN_CHANNEL`
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LINKEDIN-ff0055?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/EMAIL-7928ca?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/AYUSHDEV077"><img src="https://img.shields.io/badge/GITHUB-00f0ff?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" /></a>
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:7928ca,100:ff0055&height=120&section=footer" alt="" />
