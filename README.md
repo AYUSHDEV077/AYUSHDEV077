@@ -31,7 +31,7 @@ STATUS             : "Jacked into the grid..."
 
 ---
 
-### 🧰 `// LOADOUT`
+###  `// LOADOUT`
 
 <!-- Edit the list after ?i= to match what you actually use. Icon names: https://github.com/tandpfun/skill-icons -->
 <div align="center">
@@ -40,18 +40,18 @@ STATUS             : "Jacked into the grid..."
 
 ---
 
-### 🛰️ `// ACTIVE_MISSIONS`
+###  `// ACTIVE_MISSIONS`
 
 <!-- Replace these placeholder rows with your real repos. Keep 3-4 at most. -->
 | `PROJECT` | `BRIEFING` | `STACK` |
 |:--|:--|:--|
-| [**bloch sphere simulator**](https://mekzcuadpnsszutaxlpfi7.streamlit.app/) | Single-qubit Bloch sphere and a two-qubit Bell state, built with Qiskit, NumPy and Plotly.. | `python` |
+| [**bloch sphere simulator**](https://tkjxbvxomacoo8keqnupfu.streamlit.app/) | Single-qubit Bloch sphere and a two-qubit Bell state, built with Qiskit, NumPy and Plotly.. | `python` |
 | [**project-two**](https://github.com/AYUSHDEV077/project-two) | One line on what it does and why it's interesting. | `Python` |
-| [**project-three**](https://github.com/AYUSHDEV077/project-three) | One line on what it does and why it's interesting. | `JS` |
+| [**project-three**](https://github.com/AYUSHDEV077/project-three) | One line on what it does and why it's interesting. | `python` |
 
 ---
 
-### 📡 `// TELEMETRY`
+###  `// TELEMETRY`
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=AYUSHDEV077&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff0055&text_color=c9d1d9" alt="GitHub stats" />
@@ -62,11 +62,11 @@ STATUS             : "Jacked into the grid..."
 
 ---
 
-### 📨 `// OPEN_CHANNEL`
+###  `// OPEN_CHANNEL`
 
 <div align="center">
   <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LINKEDIN-ff0055?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/EMAIL-7928ca?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:l0stfr3qu3ncy@gmail.com"><img src="https://img.shields.io/badge/EMAIL-7928ca?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/AYUSHDEV077"><img src="https://img.shields.io/badge/GITHUB-00f0ff?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" /></a>
 </div>
 
