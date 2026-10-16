@@ -10,7 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=AYUSHDEV077&label=NET_TRAFFIC&color=ff0055&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/AYUSHDEV077?label=NODES_CONNECTED&color=00f0ff&style=for-the-badge&logo=github&logoColor=black" alt="GitHub followers" />
-<img src="https://img.shields.io/badge/LOCATION-NIGHT_CITY%2F%2FVELLORE-7928CA?style=for-the-badge" alt="Location: Vellore" />
+<img src="https://img.shields.io/badge/LOCATION-NIGHT_CITY%2F%2FVELLORE-7928CA?style=for-the-badge" alt="Location: tamil nadu,india" />
 
 </div>
 
