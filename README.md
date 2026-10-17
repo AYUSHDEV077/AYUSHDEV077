@@ -46,7 +46,7 @@ STATUS             : "Jacked into the grid..."
 | `PROJECT` | `BRIEFING` | `STACK` |
 |:--|:--|:--|
 | [**bloch sphere simulator**](https://tkjxbvxomacoo8keqnupfu.streamlit.app/) | Single-qubit Bloch sphere and a two-qubit Bell state, built with Qiskit, NumPy and Plotly.. | `python` |
-| [**project-two**](https://student-budget-tracker-mnbskpm7yijvxaxbjtnaio.streamlit.app/) |A  student expense tracker built with Python, SQLite, Pandas, and Streamlit to monitor monthly spending limits, visualize category breakdowns, and manage ledger transactions in real time. | `Python` |
+| [**budget-tracker**](https://student-budget-tracker-mnbskpm7yijvxaxbjtnaio.streamlit.app/) |A  student expense tracker built with Python, SQLite, Pandas, and Streamlit to monitor monthly spending limits, visualize category breakdowns, and manage ledger transactions in real time. | `Python` |
 | [**project-three**]() | still fig it out| `python` |
 
 ---
