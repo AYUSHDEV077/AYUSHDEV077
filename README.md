@@ -65,7 +65,7 @@ STATUS             : "Jacked into the grid..."
 ###  `// OPEN_CHANNEL`
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LINKEDIN-ff0055?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ayush-kumar-436690423?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LINKEDIN-ff0055?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:l0stfr3qu3ncy@gmail.com"><img src="https://img.shields.io/badge/EMAIL-7928ca?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/AYUSHDEV077"><img src="https://img.shields.io/badge/GITHUB-00f0ff?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" /></a>
 </div>
