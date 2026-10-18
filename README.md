@@ -47,7 +47,7 @@ STATUS             : "Jacked into the grid..."
 |:--|:--|:--|
 | [**bloch sphere simulator**](https://tkjxbvxomacoo8keqnupfu.streamlit.app/) | Single-qubit Bloch sphere and a two-qubit Bell state, built with Qiskit, NumPy and Plotly.. | `python` |
 | [**budget-tracker**](https://student-budget-tracker-mnbskpm7yijvxaxbjtnaio.streamlit.app/) |A  student expense tracker built with Python, SQLite, Pandas, and Streamlit to monitor monthly spending limits, visualize category breakdowns, and manage ledger transactions in real time. | `Python` |
-| [**yet to exist**]() | still fig it out| `python?` |
+| [**exoplanet-visualiser**](https://ayushdev077.github.io/exoplanet-visualizer/) | the name talks for itself,any space geek would figure it out| `python` |
 
 ---
 
