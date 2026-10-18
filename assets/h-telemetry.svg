@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 60" width="1000" height="60">
+<defs><style>@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style></defs>
+<polygon points="0,8 245.8,8 261.8,24 261.8,52 261.8,52 0,52 0,52 0,8" fill="#FCEE0A"/><text x="22" y="38" font-family="Bahnschrift,'DIN Alternate',Rajdhani,'Arial Narrow','Segoe UI',Roboto,sans-serif" font-weight="800" font-size="22" fill="#000" text-anchor="start" textLength="218" lengthAdjust="spacingAndGlyphs" >04 // TELEMETRY</text><path d="M275.8,30 H798.4" stroke="#FCEE0A" stroke-width="1.5"/><polygon points="798.4,24 810.4,24 804.4,36 792.4,36" fill="#00F0FF"/><text x="995" y="35" font-family="'Share Tech Mono',Consolas,Menlo,'DejaVu Sans Mono','Courier New',monospace" font-weight="400" font-size="13" fill="#00F0FF" text-anchor="end" letter-spacing="0" textLength="172" lengthAdjust="spacing" >GITHUB ACTIVITY STREAM</text>
+</svg>
